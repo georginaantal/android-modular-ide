@@ -1,0 +1,6 @@
+ButtonBlock;0;0;Hello;1
+EditTextBlock;1;1;0;Show this text;2
+ButtonBlock;2;2;Nice;1
+EditTextBlock;3;3;2;Show this too;2
+TextViewBlock;4;4;Hello;20;1
+RadioButtonBlock;5;5;Hello;1

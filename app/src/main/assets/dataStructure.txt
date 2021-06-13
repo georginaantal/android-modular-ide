@@ -1,0 +1,15 @@
+data.txt - >
+Block:
+    Not used by itself, but cannot be abstract for reasons
+DoubleDataBlock:
+    Not used by itself, but cannot be abstract for reasons
+EvaluateBlock:
+    Not YET used by itself, only IfBlock uses it so far
+ForEachBlock:
+    ForEachBlock;ID;ContextID;Array;VariableNameFromContext;IteratorNameFromContext;FirstBlockOfLoop;NextBlockAfterLoopIsOver
+IfBlock:
+    IfBlock;ID;ContextID;Expression;IdForTrue;IdForFalse
+ReadBlock:
+    Not yet used
+StringCatBlock:
+    StringCatBlock;ID;ContextID;Value1;Value2;NextBlock

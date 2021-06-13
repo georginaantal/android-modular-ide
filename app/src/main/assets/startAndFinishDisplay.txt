@@ -1,0 +1,2 @@
+EditTextBlock;0;1;0;ID of the start block;1
+EditTextBlock;1;1;0;ID of the end block;2

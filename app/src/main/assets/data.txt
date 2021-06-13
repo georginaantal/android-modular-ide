@@ -1,0 +1,15 @@
+ForEachBlock;0;1,4,3;x;i;1;3
+WriteBlock;1;x;Value: ;2
+WriteBlock;2;i;Iterator: ;0
+WriteBlock;3;;End of loop;4
+IfBlock;4;d;2 < 1;5;6
+WriteBlock;5;;TRUE;7
+WriteBlock;6;;FALSE;7
+SumBlock;7;sum1;3;10;8
+WriteBlock;8;sum1;Sum: ;9
+StringCatBlock;9;stringcat1;apple;banana;10
+WriteBlock;10;stringcat1;Concatenated string: ;11
+StringCompareBlock;11;stringcompare1;apple;apple;12
+WriteBlock;12;stringcompare1;Compared string: ;13
+WriteBlock;13;;LAST BEFORE LAST;14
+WriteBlock;14;;THE END;-1

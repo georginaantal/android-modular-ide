@@ -1,0 +1,6 @@
+StringCatBlock;0;stringcat1;apple;banana;1
+WriteBlock;1;stringcat1;Concatenated string: ;2
+StringCompareBlock;2;stringcompare1;apple;apple;3
+WriteBlock;3;stringcompare1;Compared string: ;4
+WriteBlock;4;;;5
+WriteBlock;5;;End of blocks;-1

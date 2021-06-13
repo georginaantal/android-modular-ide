@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Block App</string>
+    <string name="blocks">BLOCKS</string>
+    <string name="start">START</string>
+    <string name="next">NEXT</string>
+    <string name="welcome">Welcome to the app! Which sequence would you like to run?</string>
+    <string name="ok">OK</string>
+    <string name="open_display_blocks_view">    Open display blocks view    </string>
+</resources>

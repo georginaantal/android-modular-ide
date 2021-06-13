@@ -1,0 +1,7 @@
+IfBlock;0;d;2 < 1;5;2
+WriteBlock;1;;TRUE;3
+WriteBlock;2;;FALSE;3
+SumBlock;3;sum1;3;10;4
+WriteBlock;4;sum1;Sum: ;5
+WriteBlock;5;;;6
+WriteBlock;6;;End of blocks;-1

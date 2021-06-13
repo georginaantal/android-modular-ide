@@ -1,0 +1,10 @@
+ReadBlock;a
+WriteBlock;a
+ReadBlock;b
+WriteBlock;b
+SumBlock;c
+WriteBlock;c
+StringCompareBlock;d
+WriteBlock;d
+StringCatBlock;e
+WriteBlock;e
